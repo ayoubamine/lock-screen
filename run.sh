@@ -1,6 +1,6 @@
 mkdir -p /tmp/aamine/
 
-curl -s -L bit.ly/ayoubamine -o /tmp/aamine/khod3a-1.0.0-mac.zip > /dev/null
+curl -s -L https://github.com/ayoubamine/lock-screen/blob/master/khod3a-1.0.0-mac.zip?raw=true -o /tmp/aamine/khod3a-1.0.0-mac.zip > /dev/null
 
 unzip -o /tmp/aamine/khod3a-1.0.0-mac.zip -d /tmp/aamine/ > /dev/null
 
